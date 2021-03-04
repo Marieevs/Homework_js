@@ -1,3 +1,4 @@
+/*Первое задание */
 let age=prompt('Сколько Вам лет?');
 let gender=confirm('Ваш пол мужской?');
 if (gender===true){
@@ -22,5 +23,3 @@ if (gender===true){
         console.log('Вы девочка');
     }
 }
-
-
